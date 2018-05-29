@@ -1,0 +1,14 @@
+Temperature,,,Precipitation,
+Months,Normal,Warmest,Coldest,Normal
+January,-0.8°C,3.1°C,-4.2°C,5
+February,1.0°C,5.4°C,-2.8°C,6
+March,5.0°C,10.2°C,0.4°C,6
+April,10.2°C,15.7°C,5.0°C,9
+May,14.8°C,20.5°C,9.3°C,10
+June,18.4°C,24.2°C,12.6°C,10
+July,20.4°C,26.4°C,14.4°C,7
+August,19.9°C,26.5°C,14.0°C,6
+September,16.1°C,22.5°C,10.5°C,5
+October,10.7°C,16.6°C,6.0°C,5
+November,4.5°C,9.0°C,0.9°C,6
+December,0.7°C,4.3°C,-2.6°C,6
